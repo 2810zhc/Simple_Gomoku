@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 五子棋游戏
 
 ## 项目简介
@@ -22,3 +23,7 @@
 3. **规则阅读**：显示五子棋的规则说明。
 4. **退出**：退出游戏。
 
+=======
+# Simple_Gomoku
+A simple Gomoku program that includes human-vs-computer mode (using a game tree) and human-vs-human mode.
+>>>>>>> a2f6c7225a4b8ed4978c8b94b941929cc06dfd72
